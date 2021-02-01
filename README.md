@@ -5,7 +5,7 @@ To run the project be sure to have installed locally NodeLTS, and then run this 
 
 ```
 npm install
-npm run sar
+npm run sart
 ```
 
 After loading the web application in your browser, log in with your GOOGLE account and copy the parameters prompted in the callback screen. Those parameters are needed when you run the test client: https://github.com/samuelchvez/open-1v1-coordinator-test-client
